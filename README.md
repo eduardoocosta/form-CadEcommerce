@@ -9,8 +9,8 @@ Sites Utilizados
 
 </h1>
 
-* ``SHEIN``
-><H3>CAMPOS IDENTIFICADOS NO CADASTRO DESSE SITE:</H3>
+>* ``SHEIN``
+<H3>CAMPOS IDENTIFICADOS NO CADASTRO DESSE SITE:</H3>
 
     NÚMERO DE CELULAR;
 
@@ -30,11 +30,11 @@ Sites Utilizados
 
     PROVÍNCIA;
 
-    CIDADE;BAIRRO.
+    >CIDADE;BAIRRO.
 
 
-* ``AMAZON``
- ><h3>CAMPOS IDENTIFICADOS NO CADASTRO DESSE SITE:</h3>
+>* ``AMAZON``
+ <h3>CAMPOS IDENTIFICADOS NO CADASTRO DESSE SITE:</h3>
 
     NOME;
 
@@ -56,10 +56,10 @@ Sites Utilizados
 
     CIDADE;
 
-    ESTADO.
+    >ESTADO.
 
-* ``SHOPEE``
-><h3>CAMPOS IDENTIFICADOS NESSE SITE</h3>
+>* ``SHOPEE``
+<h3>CAMPOS IDENTIFICADOS NESSE SITE</h3>
 
     NÚMERO DE TELEFONE;
 
@@ -75,13 +75,13 @@ Sites Utilizados
 
     NÚMERO DA RESIDÊNCIA;
 
-    COMPLEMENTO/REFERÊNCIAS PRÓXIMAS.
+    >COMPLEMENTO/REFERÊNCIAS PRÓXIMAS.
 
     
 
 <h1 align = "center">
 
-Campos no meu Site
+>Campos no meu Site
 
 </h1>
 
@@ -115,9 +115,9 @@ COMPLEMENTO;
 
 REFERÊNCIAS PRÓXIMAS;
 
-ESTADO;
+>ESTADO;
 
-# Ferramentas e tecnologias utilizadas 🛠️
+># Ferramentas e tecnologias utilizadas 🛠️
 >* ``HTML5``
 >* ``BOOTSTRAP5``
 >* ``Github`` 
@@ -134,11 +134,11 @@ ESTADO;
 >2. Preencha os campos do formulário com suas informações pessoais e de endereço.
 >3. Clique no botão "Sig in" para se cadastrar .
 
-# Fontes Consultadas 
-* [BOOTSRAP5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+># Fontes Consultadas 
+>* [BOOTSRAP5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-# Autor
-* [eduardoocosta](https://github.com/eduardoocosta)
+># Autor
+>* [eduardoocosta](https://github.com/eduardoocosta)
 
 
 
